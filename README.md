@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin </h1>
+<h1 align="center">Hi 👋, I'm Martin Atanasov </h1>
 <h3 align="center">A passionate individual who loves learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-aatanasov&label=Profile%20views&color=0e75b6&style=flat" alt="martin-aatanasov" /> </p>
